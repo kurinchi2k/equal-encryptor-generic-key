@@ -1,0 +1,16 @@
+{
+  "generic_key_versions": [
+    {
+      "version": "3",
+      "file": "generic-key.der/generic-key-version-3.der",
+      "operational_from": "2026-10-15T23:15:42.201858+00:00",
+      "operational_until": "2026-10-16T05:53:38.964443+00:00"
+    },
+    {
+      "version": "4",
+      "file": "generic-key.der/generic-key-version-4.der",
+      "operational_from": "2026-10-16T05:53:38.964443+00:00",
+      "operational_until": "2026-10-15T09:50:03.792858+00:00"
+    }
+  ]
+}
